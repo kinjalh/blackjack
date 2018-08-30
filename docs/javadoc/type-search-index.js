@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"org.kj.gameutils","l":"Action"},{"p":"org.kj.gameutils","l":"Deck"},{"p":"org.kj.player","l":"HumanPlayer"},{"p":"org.kj.player","l":"Player"},{"p":"org.kj.player","l":"PlayerFactory"},{"p":"org.kj.config","l":"Settings"}]

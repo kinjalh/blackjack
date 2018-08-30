@@ -1,0 +1,10 @@
+Allows the user to play blackjack. At the moment only command line blackjack is supported.
+Refer to the rulebook.txt file for information on the game rules.
+
+At the moment, aside from the human user entering input through the command line, there is also
+a bot called SafePlayBot that calculates probability each time it is called to make a move. The
+game supports a human vs human game, human vs bot game, or bot vs bot game. Note that each game
+must have exactly 2 players. 
+
+There is also an option to track game statistics. The statstics include the number of wins, losses,
+busts, and ties for each player across however many games were played. 
