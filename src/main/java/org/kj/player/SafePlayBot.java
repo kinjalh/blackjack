@@ -25,7 +25,7 @@ class SafePlayBot extends Player {
 	 * @param name the name of the bot
 	 */
 	SafePlayBot(String name) {
-		super name);
+		super (name);
 		PROBABILITY_THRESHOLD = 0.5;
 	}
 
