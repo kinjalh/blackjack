@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.kj.blackjack.runner.BlackjackEngineTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2018-09-02T00:59:24" hostname="LAPTOP-309BFLNV" time="0.004">
+  <properties/>
+  <testcase name="testEvaluateWinnerPlayerOneHigherSum" classname="org.kj.blackjack.runner.BlackjackEngineTest" time="0.001"/>
+  <testcase name="testGameOverOneBust" classname="org.kj.blackjack.runner.BlackjackEngineTest" time="0.0"/>
+  <testcase name="testGameOverOneStand" classname="org.kj.blackjack.runner.BlackjackEngineTest" time="0.0"/>
+  <testcase name="testEvaluateWinnerPlayerOneBust" classname="org.kj.blackjack.runner.BlackjackEngineTest" time="0.0"/>
+  <testcase name="testGameOverBothBust" classname="org.kj.blackjack.runner.BlackjackEngineTest" time="0.0"/>
+  <testcase name="testEvaluateWinnerPlayerTwoBust" classname="org.kj.blackjack.runner.BlackjackEngineTest" time="0.0"/>
+  <testcase name="testGameOverNoStandNoBust" classname="org.kj.blackjack.runner.BlackjackEngineTest" time="0.0"/>
+  <testcase name="testEvaluateWinnerEqualSum" classname="org.kj.blackjack.runner.BlackjackEngineTest" time="0.001"/>
+  <testcase name="testEvaluateWinnerBothBust" classname="org.kj.blackjack.runner.BlackjackEngineTest" time="0.001"/>
+  <testcase name="testGameOverBothStand" classname="org.kj.blackjack.runner.BlackjackEngineTest" time="0.0"/>
+  <testcase name="testEvaluateWinnerPlayerTwoHigherSum" classname="org.kj.blackjack.runner.BlackjackEngineTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

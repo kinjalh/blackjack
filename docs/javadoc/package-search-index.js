@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"org.kj.config"},{"l":"org.kj.gameutils"},{"l":"org.kj.player"}]
+packageSearchIndex = [{"l":"org.kj.blackjack.config"},{"l":"org.kj.blackjack.gameio"},{"l":"org.kj.blackjack.gameutils"},{"l":"org.kj.blackjack.player"},{"l":"org.kj.blackjack.runner"}]

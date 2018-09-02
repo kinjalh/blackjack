@@ -15,13 +15,3 @@ To build a distribution zip file, go to home directory of project. Once there en
 gradlew distZip
 
 The zip file will be called blackjack.zip and will be located in 'build/distributions'
-
-CONFIGURING:
-To edit the configurations, go to the blackjack.properties file in the conf directory. The fields are:
-
-target_sum : the sum (for his/her hand of cards) that the player aims to get as close to without surpassing. Default value 21
-initial_hand_size : the number of cards in the starting hand of each player. Default value 2
-min_card_value : the minimum value of a card in the deck of cards. Default value 1
-max_card_value : the maximum value of a card in the deck of cards. Default value 13
-num_each_card : the number of each card value in the deck. Default value 4
-max_deck_size : the total number of cards the deck starts with. Default value 52

@@ -1,3 +1,5 @@
-org.kj.config
-org.kj.gameutils
-org.kj.player
+org.kj.blackjack.config
+org.kj.blackjack.gameio
+org.kj.blackjack.gameutils
+org.kj.blackjack.player
+org.kj.blackjack.runner
