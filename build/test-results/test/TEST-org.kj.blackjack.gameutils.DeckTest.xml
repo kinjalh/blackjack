@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.kj.blackjack.gameutils.DeckTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-09-02T00:59:24" hostname="LAPTOP-309BFLNV" time="0.008">
-  <properties/>
-  <testcase name="testShuffle" classname="org.kj.blackjack.gameutils.DeckTest" time="0.007"/>
-  <testcase name="testUnshuffledDeck" classname="org.kj.blackjack.gameutils.DeckTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
